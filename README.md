@@ -19,4 +19,7 @@ Actions.ActionSheet({
       hide: false                 // 表示するかどうか
     }
   ]
+});
 ```
+
+今度もっと整理する！
